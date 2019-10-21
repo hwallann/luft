@@ -1,4 +1,4 @@
-Nå når alle delene har fått loddet på seg header pinner og plugger kan vi skru fast delene i treboksen.
+Nå vi har loddet fast header-pinner og plugger på alle delene, så kan vi skru fast delene i treboksen.
 
 ## Dette trenger du
 
@@ -19,15 +19,13 @@ Ta alle delene og ledninger fra hverandre og løsne shieldet fra Arduinoen. Dett
 
 ## Skruene helplink
 
-Ta frem treboksen din og finn plastskruene og mutterene i ZipLock-posen. Plugg skruer inn i alle sju hullene på bunnplaten og én i det runde hullet ved siden av hullet for temperatursensoren i den høyre sideplaten. Skruene skal stikk inn i boksen. Du trenger ikke å skru på muttrene ennå, vi skal først plassere Arduinoen og Støvmåleren
+Ta frem treboksen din og finn plastskruene og mutterene i ZipLock-posen. Plassér Arduinoen på sin rette plass i treboksen. Plugg skruer inn i hullene i Arduinoen og boksen fra utsiden. Skruene vil passe gjennom hullene i Arduinoen og USB og strømporten på Arduinoen vil passe gjennom hullene på toppen. Skru fast en mutter i hver skrue om stram til med tang slik at Arduinoen sitter godt fast. (Merk at en av mutterene har veldig lite plass, så det er best å skru skruen og holde fast mutteren. Det går også fint hvis du ikke skrur inn alle skruene)
+
+Før du skrur fast støvmåleren, bør du koble til den hvite og blå ledningen inn i støvmåleren. Ledningen passer bare én vei, så du kan ikke gjøre noe galt der. Plassér så Støvmåleren ved siden av Arduinoen. Skruene vil passe i skruehullene til støvmåleren og luftutslippet til måleren vil stikke ut gjennom hullet i sideplaten. (*Den ene skruen kan være litt vanskelig å få tak i, det er ikke farlig om du ikke fester den. Måleren burde sitte like godt fast uten. Fjern i såfall skruven ved å dra den ut fra bunnplaten igjen.*)
 
 ![Skruer i treboksen][skrews-placement]
 
-Plassér Arduinoen på sin rette plass i treboksen. Skruene vil passe gjennom hullene i Arduinoen og USB og strømporten på Arduinoen vil passe gjennom hullene på toppen. Skru fast en mutter i hver skrue om stram til med tang slik at Arduinoen sitter godt fast.
-
-Før du skrur fast støvmåleren, bør du koble til den hvite og blåe ledningen inn i støvmåleren. Ledningen passer bare én vei, så du kan ikke gjøre noe galt der. Plassér så Støvmåleren ved siden av Arduinoen. Skruene vil passe i skruehullene til støvmåleren og luftutslippet til måleren vil stikke ut gjennom hullet i sideplaten. (*Den ene skruen kan være litt vanskelig å få tak i, det er ikke farlig om du ikke fester den. Måleren burde sitte like godt fast uten. Fjern i såfall skruven ved å dra den ut fra bunnplaten igjen.*)
-
-Ta temperatur sensoren og plugg i ledningen i sensoren. Plassér sensoren i siden på treboksen. Den hvite klossen ("*Sukkerbiten*") passer gjennom det store firkantete hullet og skruen går da gjennom et tilsvarende hull i sensoren. *Sukkerbiten* går ikke hele veien gjennom hullet, den skal såvidt stikke ut fra sideplaten. Fest en mutter på skruen slik at den sitter godt fast.
+Plugg ledningen i temperatursensoren. Plassér sensoren i siden på treboksen. Den hvite klossen ("*Sukkerbiten*") passer gjennom det store firkantete hullet og skruen går da gjennom et tilsvarende hull i sensoren. *Sukkerbiten* går ikke hele veien gjennom hullet, den skal såvidt stikke ut fra sideplaten. Fest en mutter på skruen slik at den sitter godt fast.
 
 ## Plugge sammen komponenter helplink
 
@@ -45,7 +43,7 @@ Så kan du plugge i SD-kortleseren. Den vil stikke ut gjennom den smale åpninge
 
 ### Ledningen til Temperatursensoren helplink
 
-Se nøye på temperatursensoren du har skrudd fast. Den har tre plugger. Hvis du ser nøye på chipen der ledningen er plugget i, vil du se at hver av pluggene er merket med `+`, `out` og `-`. Det er viktig at du plugge i rett ledning i rett plugg i shieldet. Siden ledningen har tre ledere med forskjellige farger (i våre bilder er det blå, lila og grå), må du huske hvilken farge er plugget i hvilken plugg på sensoren. 
+Se nøye på temperatursensoren du har skrudd fast. Den har tre plugger. Hvis du ser nøye på chipen der ledningen er plugget i, vil du se at hver av pluggene er merket med `+`, `out` og `-`. Det er viktig at du plugger i rett ledning i rett plugg i shieldet. Siden ledningen har tre ledere med forskjellige farger (i våre bilder er det blå, lilla og grå), må du huske hvilken farge er plugget i hvilken plugg på sensoren. 
 
 Se nå på pinnene for temperatursensoren på shieldet. Der er det fire pinner med markeringene `VCC`, `Data` og to ganger `GND`.
 
