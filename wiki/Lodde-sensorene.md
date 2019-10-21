@@ -19,13 +19,13 @@ Du lodder fast pinnene ved å snu shieldet opp ned, og lodder fast de korte ende
 Header pinner for støvmåleren.
 
 ![][header-pins-dht]  
-Header pinner for temperatursensoren
+Header pinner for temperatursensoren.
 
 ![][header-pins-gps]  
-Header pinner for GPS
+Header pinner for GPS.
 
 ![][header-pins-sd]  
-Header pinner for microSD kortleseren
+Header pinner for microSD kortleseren.
 
 ## Lodde plugger i sensorene helplink
 
@@ -36,27 +36,26 @@ Ta frem raden med female header plugger (*se bildet nedenfor*). Klipp til rett a
 ![Plassering av pluggene på undersiden av chipen][header-plugs-placement]
 
 ![][header-plugs-sd]  
-Plugger på undersiden av microSD kortleseren
+Plugger på undersiden av microSD kortleseren.
 
 ![][header-plugs-gps]  
-Plugger på undersiden av GPS modulen
+Plugger på undersiden av GPS modulen.
 
 ## Ferdig
 
 Når alle pinner og plugger er plassert og loddet fast kan du plugge i de forskjellige delene i shieldet.
 
 ![][plugging-pm]  
-Ledningen til Støvmåleren
+Ledningen til Støvmåleren.
 
 ![][plugging-dht]  
-Plugge inn temperatursensoren, merk at ledningene må plugges inn korrekt (- til GND og + til VCC)!
+Plugge inn temperatursensoren.
 
 ![][plugging-gps]  
-Plugge inn GPS modulen
-
+Plugge inn GPS modulen.
 
 ![][plugging-sd]  
-Plugge inn microSD-modulen
+Plugge inn microSD-modulen.
 
 ## Gå videre
 
@@ -78,3 +77,4 @@ Plugge inn microSD-modulen
 [plugging-pm]: 20171019_120201.jpg
 [plugging-dht]: 20171019_121343.jpg
 [plugging-gps]: 20171019_125500.jpg
+[plugging-sd]: 20191021_155104.jpg
