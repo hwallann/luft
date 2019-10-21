@@ -2,7 +2,7 @@ Nå skal vi bygge sammen treplatene til boksen der alle sensorene og Arduinoen s
 
 ## Dette trenger du
 
-Treplatene for boksen har tagger som passer inni hverandre. Du trenger ikke og boksen kan demonteres dersom det skulle være nødvendig.
+Treplatene for boksen har tagger som passer inni hverandre. Du trenger ikke lim og boksen kan demonteres dersom det skulle være nødvendig.
 
 Du trenger:
 
@@ -18,8 +18,8 @@ Legg ut sideplatene foran deg slik:
 
 * På **høyre side**: Lang sideplate med logoene til UiT og Skolelaboratoriet, med hull for *Temperatur og Luftfuktighet*, *microSD* og *Luft ut*
 * På **venstre side**: Lang sideplate med logoene til Vitensenteret og air:bit, med hull for *Luft inn Støvmåler*
-* En Kort sideplate med hull for *USB* og strøm (*7-12V*)
-* En Kort sideplate som er blank
+* **Lengst bort**: Kort sideplate med hull for *USB* og strøm (*7-12V*)
+* **Nærmest**: Kort sideplate som er blank
 
 Bruk en hammer å slå forsiktig sammen sideplatene. Trikset er å banke forsiktig men bestemt på platene for å få dem ordentlig tett inni hverandre. Pass på å ikke banke for hardt for å unngå å brekke treplatene.
 
