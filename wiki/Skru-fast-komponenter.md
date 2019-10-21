@@ -33,7 +33,7 @@ Klipp til to korte strimler av den røde dobbeltsidige teipen du finner i ZipLoc
 
 ![Dobbeltsidig teip på GPS antenna][tape-on-gps]
 
-Ta nå shieldet og plugg det inn i Arduinoen. Så kan du ta GPS modulen og plugge den i oppå shieldet. Fjern beskyttelsen på teipen på GPS antenna og lim den fast i det øverste høyre hjørnet av treboksen. Plugg i og knepp til ledningen til GPS chipen.
+Ta nå shieldet og plugg det inn i Arduinoen. Så kan du ta GPS modulen og plugge den i oppå shieldet. Fjern beskyttelsen på teipen på GPS antenna og lim den fast nederst i det øverste høyre hjørnet av treboksen, pass på at det er nok plass til at lokket kan lukkes. Plugg i og knepp til ledningen til GPS chipen.
 
 ![Plassering av GPS module og antenne][gps-placement]
 
