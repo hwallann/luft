@@ -25,7 +25,7 @@ Til slutt vil Arduino'en din se ut som på bildet under.
 
 ## Plassér shieldet helplink
 
-Legg shieldet oppå Arduinoen med skriften opp og plassér det slikt at de korte endestykkene av header pinnene stikker gjennom de ytre hullene på shieldet på begge sider. Shieldet passer bare én vei, så snu det det rundt dersom det ikke passer.
+Legg shieldet oppå Arduinoen med skriften opp og plassér det slikt at de korte endestykkene av header pinnene stikker gjennom de ytre hullene på shieldet på begge sider. Shieldet passer bare én vei, så snu det det rundt dersom det ikke passer. Du trenger fremdeles ikke å tenke på de seks pinnene som stikker opp fra Arduino'en på midten av den ene kanten.
 
 ![Header pinnene stikker opp gjennom shieldet][header-pins-shield]
 
@@ -33,9 +33,9 @@ Legg shieldet oppå Arduinoen med skriften opp og plassér det slikt at de korte
 
 Varm opp din loddebolt til omtrent 370&deg;C. Avhengig av hvilken type loddebolt og loddetinn du bruker kan den anbefalte temperaturen variere. Gjerne dobbeltskjekk hvilken temperatur du burde bruke.
 
-Lodding kan føre til dannelse av gasser som kan være heleskadelige i store mengder! Bruk alltids en avtrekksvifte der du lodder, slik at du ikke puster inn utslippet av loddingen. Før du begynner bør du også forsikre deg at avtrekket er skrudd på.
+Lodding kan føre til dannelse av gasser som kan være heleskadelige i store mengder! Bruk alltid en avtrekksvifte der du lodder, slik at du ikke puster inn utslippet av loddingen. Før du begynner bør du også forsikre deg at avtrekket er skrudd på.
 
-Ta opp den varme loddebolten og før den fra siden mot pinnen som stikker opp av hullet. Tuppen av bolten skal varme opp pinnen og metallet på shieldet rundt hulle som pinnen stikker ut på.  
+Ta opp den varme loddebolten og før den fra siden mot pinnen som stikker opp av hullet. Tuppen av bolten skal varme opp pinnen og metallet på shieldet rundt hullet som pinnen stikker ut på.  
 Før så til loddetinn fra den andre siden. Når tinnet kommer i kontakt med den varme bolten, pinnen og metallringen på shieldet, vil det smelte og legge seg rundt pinnen.
 
 ![Loddetinn føres til fra venstre mot loddebolten fra høyre][soldering-begin]
@@ -58,13 +58,13 @@ Lodd fast endestykkene til begge motstandene på shieldet, akkurat som du gjorde
 
 ## Lodde fast LED lysene helplink
 
-Øverst i høyre hjørnet av shieldet, ved siden av firkanten der det står GPS, skal LED'ene plasseres. 
+Øverst i høyre hjørnet av shieldet, ved siden av firkanten der det står GPS, skal LED-lysene plasseres. 
 
 `D` i LED står for *Diode*. Dette vil si at strømretningen er veldig viktig å passe på, strømmen kan bare flyte én vei gjennom en diode, så du må passe på å montere den rett vei på shieldet.
 
 ![Plassering av LED][led-placement]
 
-Se nøye på bildet over. Legg merke til at diodene har en flat kant mot den ene siden. I bildet vises det best på den grønne dioden som har sin flate kant pekende mot venstresiden av bildet. Den flate kanten av dioden skal peke mot den flate siden av tegningen på shieldet (der det står `LED1` og `LED2`).
+Se nøye på bildet over. Legg merke til at diodene har en flat kant mot den ene siden. I bildet vises det best på den grønne dioden som har sin flate kant pekende mot venstresiden av bildet. Den flate kanten av dioden skal peke mot den flate siden av tegningen på shieldet (der det står `LED1` og `LED2`). Du kan også se at den korte lederen til LED-lyset skal i hullet på den flate siden på shieldet.
 
 Monter det blanke LED-lyset der det er merket `LED1 Rød` og det grønne LED-lyset der det er merket `LED2 Blå` på kretskortet. *Det blanke LED-lyset lyser rødt, og tidligere brukte air:bit en blå LED i stedet for grønn.*
 
