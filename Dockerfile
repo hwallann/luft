@@ -24,3 +24,5 @@ RUN go install
 
 EXPOSE 80
 CMD PORT=80 luft 
+
+#RUN echo "Connect to docker container by running:\n\t docker run -p 8080:80 <docker-tag>"
